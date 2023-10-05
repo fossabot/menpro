@@ -3,6 +3,7 @@ MenPro is a full-featured free webserver-suite. Set-up in a few clicks and easy 
 The most important feature of MenPro is being able to get a working webserver in a few clicks. No settings to set, and ready as-is.
 
 ![MenPro](<http://d.pr/i/P5HP+>)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmennoboer%2Fmenpro.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmennoboer%2Fmenpro?ref=badge_shield)
 
 The suite contains the following features; 
 
@@ -460,3 +461,6 @@ The suite contains the following features;
 *   Added dialog elements for vhosts: SSL
 *   'exit' command added to console
 *   Minor fixes
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmennoboer%2Fmenpro.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmennoboer%2Fmenpro?ref=badge_large)
